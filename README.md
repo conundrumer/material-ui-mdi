@@ -1,8 +1,13 @@
 # material-ui-mdi
-[Community Material Design Icons](https://materialdesignicons.com/) as [material-ui](https://github.com/callemall/material-ui) SvgIcon component.
-Icon components built with icon-builder tool from material-ui.
+[Community Material Design Icons](https://materialdesignicons.com/) as [Material-UI](https://github.com/callemall/material-ui) SvgIcon components, built with [icon-builder](https://github.com/callemall/material-ui/tree/master/icon-builder) from Material-UI.
 
 Special thanks to [Austin Andrews](https://github.com/Templarian) for managing Material Design Icons.
+
+## Installation
+
+```
+npm install material-ui-mdi
+```
 
 ## Usage
 
@@ -25,5 +30,4 @@ export default class Account extends React.Component {
 
 ```sh
 npm run build
-
 ```

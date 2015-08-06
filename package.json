@@ -1,7 +1,7 @@
 {
   "name": "material-ui-mdi",
   "version": "0.1.0",
-  "description": "Community Material Design Icons as material-ui SvgIcon components",
+  "description": "Community Material Design Icons as Material-UI SvgIcon components",
   "main": "",
   "scripts": {
     "clone-material-ui": "git clone git@github.com:callemall/material-ui.git && cd material-ui/icon-builder && npm install",
@@ -19,6 +19,8 @@
     "react-component",
     "material design",
     "icons",
+    "icon",
+    "svg",
     "material-ui",
     "mui",
     "mdi"
