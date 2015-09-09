@@ -8,7 +8,8 @@
     "get-mdi-svgs": "mkdir -p svg && node get-mdi-svgs.js",
     "make-jsx": "node material-ui/icon-builder/build.js --output-dir jsx --svg-dir svg --mui-require absolute",
     "make-js": "material-ui/icon-builder/node_modules/.bin/babel --stage 1 ./jsx --out-dir ./icons",
-    "build": "npm run clone-material-ui && npm run get-mdi-svgs && npm run make-jsx && npm run make-js"
+    "build": "npm run clone-material-ui && npm run get-mdi-svgs && npm run make-jsx && npm run make-js",
+    "clean-all": "rm -rf material-ui jsx svg"
   },
   "repository": {
     "type": "git",
@@ -32,7 +33,7 @@
   },
   "homepage": "https://github.com/conundrumer/material-ui-mdi#readme",
   "peerDependencies": {
-    "material-ui": "^0.10.2",
+    "material-ui": "^0.11.0",
     "react": "^0.13.3"
   }
 }
