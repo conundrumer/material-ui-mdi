@@ -2,6 +2,8 @@
 
 [Community Material Design Icons](https://materialdesignicons.com/) as [Material-UI](https://github.com/callemall/material-ui) SvgIcon components, built with [icon-builder](https://github.com/callemall/material-ui/tree/master/icon-builder) from Material-UI.
 
+[Community Material Design Icons](https://materialdesignicons.com/) as [Material-UI](https://github.com/callemall/material-ui) SvgIcon components, built with [icon-builder](https://github.com/callemall/material-ui/tree/master/icon-builder) from Material-UI.
+
 Special thanks to [Austin Andrews](https://github.com/Templarian) for managing Material Design Icons.
 
 ## Installation
