@@ -33,6 +33,10 @@
   },
   "homepage": "https://github.com/conundrumer/material-ui-mdi#readme",
   "peerDependencies": {
-    "material-ui": "*"
+    "material-ui": "^0.13.4",
+    "react": "^0.14.3"
+  },
+  "dependencies": {
+    "react-addons-pure-render-mixin": "^0.14.3"
   }
 }
