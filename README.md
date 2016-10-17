@@ -1,3 +1,5 @@
+# deprecated, use [mdi-svg](https://github.com/conundrumer/mdi-svg) instead
+
 # material-ui-mdi
 
 Material-UI community Material Design Icons
